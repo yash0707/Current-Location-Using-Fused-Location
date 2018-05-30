@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "445410431923",
+    "firebase_url": "https://serene-circlet-205613.firebaseio.com",
+    "project_id": "serene-circlet-205613",
+    "storage_bucket": "serene-circlet-205613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445410431923:android:1be0228620e809c4",
+        "android_client_info": {
+          "package_name": "currentlocation.varshney.com.currentlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445410431923-lv8jn7l2nv1ahgq1g5rfahrf7955nfjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "currentlocation.varshney.com.currentlocation",
+            "certificate_hash": "b7c753c55cdc851eeaf845b576c2416b2479b769"
+          }
+        },
+        {
+          "client_id": "445410431923-b89okpo82pq2hui6hhdte9q5s58uuld5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "445410431923-tk4obqbr33bntlmugroa1cnn322h5b8f.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "445410431923-b89okpo82pq2hui6hhdte9q5s58uuld5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp8XBvSyQHbgjlzLM_w5k9yNuDTfz0qWY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445410431923-b89okpo82pq2hui6hhdte9q5s58uuld5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
